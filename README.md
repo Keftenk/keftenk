@@ -2,6 +2,15 @@
 
 ![Image](maintitle.jpg)
 
+_If you find any invalid information or technical issues with the spreadsheet. Please feel free to reach out to me directly. Let's work together to make a better visible and reliable resource for our community._
+
+### The Vanilla Stigma "OOMkin"
+
+Balance Druid's stereotype which has carried through to today has been the notion that they run out of mana exceedingly fast, being coined "OOMkin". This is a verifiably false statement with the capability of being able to last nearly 5-minutes in the current state of the game. In hindsight, Smite Priest, Shadow Priest, as well as Elemental Shaman have more mana management opportunities.
+
+Moonkin as well as the Druid talent tree revamp came very late in the progression of Vanilla. The understanding and knowledge of the specialization couldn't be fully realized even partially through the evolution of Vanilla due to these changes. In tandem with a bottom tier played class made for stand out research and data building incredibly sparse and inconsistent.
+
+
 You can use the [editor on GitHub](https://github.com/ultrabis/keftenk/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
