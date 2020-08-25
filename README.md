@@ -10,6 +10,20 @@ Balance Druid's stereotype which has carried through to today has been the notio
 
 Moonkin as well as the Druid talent tree revamp came very late in the progression of Vanilla. The understanding and knowledge of the specialization couldn't be fully realized even partially through the evolution of Vanilla due to these changes. In tandem with a bottom tier played class made for stand out research and data building incredibly sparse and inconsistent.
 
+### About the Project
+
+This project was developed not out of the desire to play the Moonkin myself, but to justifiably refute accusations within the community as to how Balance Druid performs in a raid environment and if there was any validity to the claims players would make or if everything was hearsay. I went in with a unbiased opinion of the specs performance and detailed the process backed by mathematics. The entire process of the project undeniably has left me tilted and crazed, but I can say with enough assurance that I can speak to the Balance Druid better than most. I hope you all can appreciate and enjoy the resource.
+
+# The Spreadsheet
+
+The spreadsheet is a resource which is primarily for Excel to utilize the power and functionality of VBA macros. The spreadsheet will not work in Google Docs.
+
+By utilizing VBA macros you may optimize your gear down to the exact value of Hit%, Crit%, INT, Spell Damage, Faction, Classic Phase#, Spell Rank#, Buffs, and Debuffs. This is achievable by clicking "Finding Optimal Gear Set" and "Exact Optimization" features present on the 'Character' sheet. Stat weights will automatically correct and reoptimize using the math derivatives which have been written for the tool. You are also able to optimize your trinkets per durational boss fights if you so wish which then can be fed back into your 'Character' optimization.
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/ultrabis/keftenk/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
