@@ -1,6 +1,6 @@
 # "By the great winds, I come." Classic Balance Druid Theorycraft Spreadsheet v1.6
 
-![Image](maintitle.jpg)
+![Image](assets/maintitle.jpg)
 
 _If you find any invalid information or technical issues with the spreadsheet. Please feel free to reach out to me directly. Let's work together to make a better visible and reliable resource for our community._
 
@@ -20,7 +20,7 @@ The spreadsheet is a resource which is primarily for Excel to utilize the power 
 
 By utilizing VBA macros you may optimize your gear down to the exact value of Hit%, Crit%, INT, Spell Damage, Faction, Classic Phase#, Spell Rank#, Buffs, and Debuffs. This is achievable by clicking "Finding Optimal Gear Set" and "Exact Optimization" features present on the 'Character' sheet. Stat weights will automatically correct and reoptimize using the math derivatives which have been written for the tool. You are also able to optimize your trinkets per durational boss fights if you so wish which then can be fed back into your 'Character' optimization.
 
-![Image](spreadsheet.jpg)
+![Image](assets/spreadsheet.jpg)
 
 The Score function is the culmination of the stat weights via each individual item which has been selected. All of these parameters can be saved and called upon at a later load of the resource.
 
@@ -30,7 +30,7 @@ If your desire is to to explore a more relative DPS Simulation tool, please cons
 
 By the grace of Zephan from the Classic Warlock Discord. We've also constructed a rough estimation of the DPS contribution in which the Moonkin Aura may end up resulting to. Much like the DPS calculations this is not a perfect simulation.
 
-![Image](ma_calc.jpg)
+![Image](assets/ma_calc.jpg)
 
 ## FAQ
 ### Q: The DPS looks low, is that accurate?
