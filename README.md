@@ -79,10 +79,10 @@ I predominantly played in a hardcore raiding guild, Coalition, on Nostalrius. Du
 I've been an integral part of the Classic World of Warcraft theorycraft community and have been a reliable resource of information and knowledge on the inner workings of World of Warcraft emulation as well as how technical mechanics worked in Vanilla.
 
 ### Special Thanks
-Daemon, Viper, Nano, Brotalnia, Taladril, Shedo, Zephan, Guybrush, Ayz, Beef Broccoli, Nost Guilds: Coalition and NOPE, Discords: Classic Theorycrafting and Druid Classic, and Azuregos.
+Daemon, Viper, Nano, Brotalnia, Taladril, Shedo, Zephan, Guybrush, Ayz, **Beef Broccoli**, Nost Guilds: Coalition and NOPE, Discords: Classic Theorycrafting and Druid Classic, and Azuregos.
 
 ### Resources
-Classic Balance Druid Spreadsheet Download
-Moonkin Calculator
-Druid Classic Discord
-Classic Theorycrafting Discord
+[Classic Balance Druid Spreadsheet Download](sheets/Classic_Balance_Druidv1.6.xlsm)
+[Moonkin Calculator](https://gitlab.com/kmmiles/moonkin-calc)
+[Druid Classic Discord](https://discord.gg/SMwmrBV)
+[Classic Theorycrafting Discord](https://discord.gg/DwbRKh)
