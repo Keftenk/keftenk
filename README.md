@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## "By the great winds, I come." Classic Balance Druid Theorycraft Spreadsheet v1.6
+
+[Image](maintitle.jpg)
 
 You can use the [editor on GitHub](https://github.com/ultrabis/keftenk/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
