@@ -97,10 +97,7 @@ Daemon, Viper, Nano, Brotalnia, Taladril, Shedo, Zephan, Guybrush, Ayz, **Beef B
 
 ### Resources
 
-[Classic Balance Druid Spreadsheet Download](sheets/Classic_Balance_Druidv1.6.xlsm)
-
-[Moonkin Calculator](https://gitlab.com/kmmiles/moonkin-calc)
-
-[Druid Classic Discord](https://discord.gg/SMwmrBV)
-
-[Classic Theorycrafting Discord](https://discord.gg/DwbRKh)
+* [Classic Balance Druid Spreadsheet Download](sheets/Classic_Balance_Druidv1.6.xlsm)
+* [Moonkin Calculator](https://gitlab.com/kmmiles/moonkin-calc)
+* [Druid Classic Discord](https://discord.gg/SMwmrBV)
+* [Classic Theorycrafting Discord](https://discord.gg/DwbRKh)
